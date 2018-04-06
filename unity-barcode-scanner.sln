@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-barcode-scanner", "Assembly-CSharp.csproj", "{98F48953-3EE6-EE50-307C-C5302A38F6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-barcode-scanner", "Assembly-CSharp-Editor.csproj", "{D1A9F4FE-892F-0296-CDC2-F16A0FD2395C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F48953-3EE6-EE50-307C-C5302A38F6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F48953-3EE6-EE50-307C-C5302A38F6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F48953-3EE6-EE50-307C-C5302A38F6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F48953-3EE6-EE50-307C-C5302A38F6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A9F4FE-892F-0296-CDC2-F16A0FD2395C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A9F4FE-892F-0296-CDC2-F16A0FD2395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A9F4FE-892F-0296-CDC2-F16A0FD2395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A9F4FE-892F-0296-CDC2-F16A0FD2395C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
